@@ -126,14 +126,14 @@ main#body {
   color: #222222;
 }
 
-#TipoApi {
+#LiContenido {
   margin: 24px auto;
   padding: 0 20px;
   list-style: none;
   max-width: 900px;
 }
 
-#TipoApi li {
+#LiContenido li {
   background: #f8f9fc;
   border-left: 5px solid #5a189a;
   border-radius: 8px;
@@ -146,13 +146,13 @@ main#body {
   text-align: justify;
 }
 
-#TipoApi li:hover {
+#LiContenido li:hover {
   transform: translateY(-4px);
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
   border-left-color: #00d4b4;
 }
 
-#TipoApi .tipo {
+#LiContenido .tipo {
   font-weight: 700;
   color: #3a0ca3;
   background-color: rgba(90, 24, 154, 0.08);
